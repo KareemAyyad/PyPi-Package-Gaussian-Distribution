@@ -39,7 +39,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kareem Ayyad- [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
+Kareem Ayyad- kareem@ayyad.net
 
 Project Link: [https://github.com/kareemayyad/PyPi-Package-Gaussian-Distribution](https://github.com/kareemayyad/PyPi-Package-Gaussian-Distribution)
 
